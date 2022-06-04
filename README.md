@@ -17,7 +17,7 @@ Foursquare - Location Matching (Kaggle Competition)
 
 2. try_and_error
      
-     此資料夾中放置兩個 try and error 的程式碼
+     此資料夾中放置兩個 try and error 的程式碼：
      
      1. binary-lgb-baseline-0-834.ipynb: 以下為此程式碼在 Kaggle 的連結
         https://www.kaggle.com/code/douhau/binary-lgb-baseline-0-834
