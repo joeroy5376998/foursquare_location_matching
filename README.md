@@ -9,8 +9,9 @@ Foursquare - Location Matching (Kaggle Competition)
 
 ## Files
 
-1. best_score.ipynb: 最佳分數的所使用的程式碼，相關的 input files 因檔案大小限制無法上傳 GitHub，因此以下連結為此檔案在 Kaggle 的連結，可直接於 Kaggle 上執行。
+1. best_score.ipynb:最佳分數的所使用的程式碼，相關的 input files 因檔案大小限制無法上傳 GitHub，因此以下連結為此檔案在 Kaggle 的連結，可直接於 Kaggle 上執行。
 https://www.kaggle.com/code/douhau/0-836-1h-inference-burning-up-kaggle-cpus
+
 2. try_and_error: 此資料夾中放置兩個 try and error 的程式碼
      1. binary-lgb-baseline-0-834.ipynb: 以下為此程式碼在 Kaggle 的連結
         https://www.kaggle.com/code/douhau/binary-lgb-baseline-0-834
