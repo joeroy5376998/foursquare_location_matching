@@ -5,7 +5,7 @@ Foursquare - Location Matching (Kaggle Competition)
 
 隊伍名稱截圖
 
-![image](https://github.com/joeroy5376998/foursquare_location_matching/blob/main/image/team_name.PNG)
+![image](https://github.com/joeroy5376998/foursquare_location_matching/blob/main/image/team.PNG)
 
 截至 6/5 在 leaderboard 上的排名
 
