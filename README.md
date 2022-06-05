@@ -3,7 +3,7 @@ Foursquare - Location Matching (Kaggle Competition)
 
 ## Team Name
 
-以下為隊伍名稱之截圖
+隊伍名稱截圖
 
 ![image](https://github.com/joeroy5376998/foursquare_location_matching/blob/main/image/team_name.PNG)
 
