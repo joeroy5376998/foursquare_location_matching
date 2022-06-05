@@ -11,7 +11,7 @@ Foursquare - Location Matching (Kaggle Competition)
 
 ![image](https://github.com/joeroy5376998/foursquare_location_matching/blob/main/image/rank.PNG)
 
-## Files
+## C
 
 1. best_score.ipynb
      
