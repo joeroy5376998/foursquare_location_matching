@@ -29,7 +29,7 @@ Foursquare - Location Matching (Kaggle Competition)
 
         此為公開的 notebook，架構為 kNN 及 binary LightGBM model，調整參數後，最高分數為 0.835。
         
-        ![image](https://github.com/joeroy5376998/foursquare_location_matching/blob/main/image/lgb-baseline.PNG)
+        ![image](https://github.com/joeroy5376998/foursquare_location_matching/blob/main/image/lgb_baseline.PNG)
         
         以下為 Kaggle 連結：
      
