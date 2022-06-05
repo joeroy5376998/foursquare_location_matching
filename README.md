@@ -19,10 +19,13 @@ Foursquare - Location Matching (Kaggle Competition)
      
      https://www.kaggle.com/code/douhau/0-836-1h-inference-burning-up-kaggle-cpus
 
-2. try_and_error
+2. try_and_error folder
      
      此資料夾中放置兩個 try and error 的程式碼：
      
-     1. binary-lgb-baseline-0-834.ipynb: 以下為此程式碼在 Kaggle 的連結
+     1. binary-lgb-baseline.ipynb:
         https://www.kaggle.com/code/douhau/binary-lgb-baseline-0-834
-     2. foursquare-model.ipynb, foursquare-predict.ipynb: 執行 foursquare-model.ipynb 後可得到訓練好的模型(model.txt)，此模型為 foursquare-predict.ipynb 所用。
+        此為公開的 notebook，架構為 kNN 及 binary LightGBM model，調整參數 neighbors = 30 後，score = 0.835
+     2. foursquare-model-lgb.ipynb, foursquare-predict.ipynb:
+        https://www.kaggle.com/code/douhau/foursquare-model
+        參考 binary-lgb-baseline.ipynb 架構之程式碼，score = 0.783
