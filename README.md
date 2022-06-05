@@ -17,7 +17,7 @@ Foursquare - Location Matching (Kaggle Competition)
      
      最佳分數的所使用的程式碼，相關的 input files 因檔案大小限制無法上傳 GitHub，因此以下連結為此檔案在 Kaggle 的連結，可直接於 Kaggle 上執行。
      
-     https://www.kaggle.com/code/douhau/0-836-1h-inference-burning-up-kaggle-cpus
+     https://www.kaggle.com/code/douhau/foursquare-catboost
 
 2. try_and_error folder
      
