@@ -24,13 +24,13 @@ Foursquare - Location Matching (Kaggle Competition)
      此資料夾中放置兩個 try and error 的程式碼：
      
      1. binary-lgb-baseline.ipynb:
+
+        此為公開的 notebook，架構為 kNN 及 binary LightGBM model，調整參數後，最高分數為 0.835。以下為 Kaggle 連結：
      
         https://www.kaggle.com/code/douhau/binary-lgb-baseline-0-834
         
-        此為公開的 notebook，架構為 kNN 及 binary LightGBM model，調整參數後，最高分數為 0.835
-        
      2. foursquare-model-lgb.ipynb, foursquare-predict.ipynb:
-     
-        https://www.kaggle.com/code/douhau/foursquare-model
         
-        參考 binary-lgb-baseline.ipynb 架構之程式碼，最高分數為 0.783
+        參考 binary-lgb-baseline.ipynb 架構之程式碼，最高分數為 0.783。以下為 Kaggle 連結：
+        
+        https://www.kaggle.com/code/douhau/foursquare-model
